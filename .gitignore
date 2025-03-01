@@ -1,0 +1,11 @@
+# 数据文件
+data/
+analysis/skills_cloud.png
+
+# Python缓存和虚拟环境
+__pycache__/
+venv/
+
+# IDE文件
+.idea/
+.vscode/
